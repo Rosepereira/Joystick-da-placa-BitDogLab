@@ -7,7 +7,7 @@
 #include "lwip/altcp_tls.h"
 #include "example_http_client_util.h"
 
-#define HOST "serverpico.onrender.com" // O endereço deve ser sem http:// ou https://
+#define HOST "joystick-da-placa-bitdoglab.onrender.com" // O endereço deve ser sem http:// ou https://
 #define URL_REQUEST "/mensagem?msg=" // Não altere essa parte
 
 #define ADC_MAX 4095
